@@ -243,9 +243,7 @@ const Navbar = ({ scrollToSection, sectionRefs }) => {
             <p className="text-sm text-gray-600 text-center">
               Art that speaks, craft that lasts.
             </p>
-            <p className="text-xs text-gray-400 text-center mt-2">
-              © 2024 Art of Azyl
-            </p>
+            
           </div>
         </div>
       </div>
