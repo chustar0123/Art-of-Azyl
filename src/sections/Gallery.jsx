@@ -15,7 +15,7 @@ import {
 // Pencil Portraits 
 import pencilPortrait1 from '../assets/pencil-potrait1.jpg';
 import pencilPortrait2 from '../assets/slide3.jpg';
-import pencilPortrait3 from '../assets/pencil-potrait3.jpg';
+import pencilPortrait3 from '../assets/pencil-potrait3.JPG';
 import pencilPortrait4 from '../assets/pencil-potrait4.jpg';
 
 // Murals 
